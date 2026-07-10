@@ -1,0 +1,76 @@
+eq_id,date,lat,lon,depth,magnitude,place,year
+usb000q9sv,2014-05-04,34.9118,139.4186,153,6,"31 km ESE of It?, Japan",2014
+usc000rnx0,2014-06-30,28.3404,138.8441,511,6.2,"Bonin Islands, Japan region",2014
+usb000rs50,2014-07-11,37.0052,142.4525,20,6.5,"139 km ESE of Namie, Japan",2014
+usb000s1nc,2014-08-10,41.1585,142.1309,41,6.1,"78 km E of Mutsu, Japan",2014
+usb000skys,2014-10-11,41.0272,143.1649,22,6.1,"152 km ENE of Hachinohe, Japan",2014
+usb000syza,2014-11-22,36.6408,137.8875,9,6.2,"6 km SSE of Hakuba, Japan",2014
+usb000tpvj,2015-02-16,39.8558,142.8808,23,6.7,"83 km ENE of Miyako, Japan",2015
+usc000trsc,2015-02-20,39.8244,143.5871,10,6.2,"142 km E of Miyako, Japan",2015
+usc000ts49,2015-02-21,39.8185,143.4861,7,6,"133 km E of Miyako, Japan",2015
+us20002e96,2015-05-10,31.2373,142.0157,6,6,"Izu Islands, Japan region",2015
+us20002et4,2015-05-12,38.9056,142.0317,35,6.8,"32 km SE of ?funato, Japan",2015
+us20002ki3,2015-05-30,27.8386,140.4931,664,7.8,"Bonin Islands, Japan region",2015
+us20002kpm,2015-05-30,30.7856,142.9722,6.05,6.2,"Izu Islands, Japan region",2015
+us20002mvq,2015-06-08,41.5615,142.0308,42,6.1,"74 km ENE of Mutsu, Japan",2015
+us10002l37,2015-06-23,27.7375,139.7254,460,6.5,"Bonin Islands, Japan region",2015
+us20003feg,2015-09-01,31.1806,141.6,8,6,"Izu Islands, Japan region",2015
+us10003y71,2015-11-13,31.0009,128.8729,12,6.7,"140 km WSW of Makurazaki, Japan",2015
+us10004djn,2016-01-11,44.4761,141.0867,238.81,6.2,"74 km NW of Rumoi, Japan",2016
+us10004ebx,2016-01-14,41.9723,142.781,46,6.7,"52 km SE of Shizunai-furukawach?, Japan",2016
+us20005hzn,2016-04-14,32.788,130.7042,9,6.2,"2 km SSE of Kumamoto, Japan",2016
+us20005i1a,2016-04-14,32.6973,130.7204,8,6,"5 km ENE of Uto, Japan",2016
+us20005iis,2016-04-15,32.7906,130.7543,10,7,"6 km ESE of Kumamoto, Japan",2016
+us10006a2k,2016-08-04,24.9447,142.0141,510,6.3,"Volcano Islands, Japan region",2016
+us10006fdp,2016-08-20,40.3942,143.6796,10,6,"170 km ENE of Miyako, Japan",2016
+us10006r42,2016-09-20,30.5017,142.0478,9,6.1,"Izu Islands, Japan region",2016
+us10006rte,2016-09-23,34.4619,141.6368,10,6.2,"142 km ESE of Katsuura, Japan",2016
+us20007fta,2016-10-21,35.3743,133.8092,5.63,6.2,"6 km S of Kurayoshi, Japan",2016
+us1000770m,2016-11-11,38.4973,141.5658,42.4,6.1,"24 km ENE of Ishinomaki, Japan",2016
+us10007b88,2016-11-21,37.3931,141.387,9,6.9,"35 km ESE of Namie, Japan",2016
+us10008qnw,2017-05-09,24.45,126.3174,10,6,"110 km ESE of Hirara, Japan",2017
+us2000a18e,2017-07-26,26.8975,130.1836,12,6,"176 km SSE of Naze, Japan",2017
+us2000ahlq,2017-09-07,27.7829,139.8041,451,6.1,"Bonin Islands, Japan region",2017
+us2000arxv,2017-09-20,37.9814,144.6601,11,6.1,"282 km ESE of Kamaishi, Japan",2017
+us2000b1v8,2017-10-06,37.5033,144.0201,9,6.2,"259 km ESE of Ishinomaki, Japan",2017
+us2000bkrv,2017-11-09,32.5208,141.438,12,6,"Izu Islands, Japan region",2017
+us2000cnnl,2018-01-24,41.1034,142.4323,31,6.3,"99 km ENE of Misawa, Japan",2018
+us2000h8ty,2018-09-05,42.6861,141.9294,35,6.6,"27 km ESE of Chitose, Japan",2018
+us2000j1d4,2019-01-08,30.5872,131.0441,35,6.3,"16 km SSE of Nishinoomote, Japan",2019
+us70003j46,2019-05-09,31.7772,131.8483,22,6.2,"43 km ESE of Miyazaki, Japan",2019
+us600042fx,2019-06-18,38.6391,139.4769,12,6.4,"31 km WSW of Tsuruoka, Japan",2019
+us70004jea,2019-07-13,29.3533,128.1534,251,6.1,"169 km NW of Naze, Japan",2019
+us60004wjb,2019-07-27,33.1492,137.3029,367,6.3,"138 km ESE of Shing?, Japan",2019
+us600050if,2019-08-04,37.7594,141.6031,38,6.3,"61 km ENE of Namie, Japan",2019
+us7000903m,2020-04-19,38.8953,142.0049,38,6.3,"31 km SE of ?funato, Japan",2020
+us6000abcq,2020-06-13,28.8591,128.2713,165,6.6,"130 km WNW of Naze, Japan",2020
+us7000bm9m,2020-09-12,38.7482,142.2446,34,6.1,"58 km SE of ?funato, Japan",2020
+us7000csqe,2020-12-20,40.8667,142.5814,35,6.3,"100 km ENE of Hachinohe, Japan",2020
+us6000dher,2021-02-13,37.7265,141.7751,43.98,7.1,"73 km ENE of Namie, Japan",2021
+us7000dl6y,2021-03-20,38.4515,141.6477,43,7,"30 km E of Ishinomaki, Japan",2021
+us7000dz5t,2021-05-01,38.1997,141.5973,43,6.9,"30 km SSE of Onagawa Ch?, Japan",2021
+us7000e2xd,2021-05-13,37.7169,141.8167,32,6,"76 km ENE of Namie, Japan",2021
+us6000fq2d,2021-09-29,38.8893,135.4527,364,6.1,"243 km NNW of Nanao, Japan",2021
+us7000fxyq,2021-11-29,31.196,142.5026,11,6.3,"Izu Islands, Japan region",2021
+us6000gaq5,2021-12-09,29.4132,129.3846,7,6,"116 km N of Naze, Japan",2021
+us7000gdwz,2022-01-21,32.7282,132.0386,39,6.3,"27 km SSE of Saiki, Japan",2022
+us6000h519,2022-03-16,37.7132,141.5793,41,7.3,"57 km ENE of Namie, Japan",2022
+us6000hn4d,2022-05-22,33.2279,141.4121,12,6,"235 km SSE of Katsuura, Japan",2022
+us7000ipkm,2022-11-14,33.8139,137.3055,346,6.1,"85 km SSE of Toba, Japan",2022
+us7000j4mj,2023-01-16,28.9804,139.3452,405,6.3,"Bonin Islands, Japan region",2023
+us6000jrjl,2023-02-25,42.8258,145.0212,55,6,"Hokkaido, Japan region",2023
+us6000k09q,2023-03-28,41.1434,142.8148,37,6,"Hokkaido, Japan region",2023
+us6000k9mb,2023-05-05,37.5476,137.2994,10,6.2,"49 km NE of Anamizu, Japan",2023
+us7000k46f,2023-05-26,35.5294,140.5281,42,6.1,"12 km SE of Narutō, Japan",2023
+us7000k7su,2023-06-11,42.5268,141.9005,121,6.2,"20 km WSW of Biratori, Japan",2023
+us7000kwg2,2023-09-18,26.5312,125.2312,176,6.3,"191 km N of Hirara, Japan",2023
+us6000lch5,2023-10-03,29.9183,140.0108,10,6,"Izu Islands, Japan region",2023
+us6000lcz1,2023-10-05,29.8466,139.9904,10,6.1,"Izu Islands, Japan region",2023
+us6000ldbb,2023-10-06,30.1409,139.9683,10,6.1,"Izu Islands, Japan region",2023
+us6000m0xl,2024-01-01,37.4874,137.271,10,7.5,"2024 Noto Peninsula, Japan Earthquake",2024
+us7000m9sq,2024-04-04,37.7104,141.856,29,6.1,"77 km E of Minami-Sōma, Japan",2024
+us7000mcpi,2024-04-17,33.2503,132.3647,32,6.3,"18 km W of Uwajima, Japan",2024
+us6000nith,2024-08-08,31.7599,131.5021,24,7.1,"2024 Hyuganada Sea, Japan Earthquake",2024
+us7000nsa3,2024-11-17,29.0424,131.3968,8,6.1,"156 km SSE of Koshima, Japan",2024
+us7000nu90,2024-11-26,36.9549,136.3653,8,6.1,"38 km WNW of Hakui, Japan",2024
+us6000pjny,2025-01-13,31.8326,131.5525,39,6.8,"15 km SE of Miyazaki, Japan",2025
