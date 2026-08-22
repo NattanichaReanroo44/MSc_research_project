@@ -1,4 +1,3 @@
-# MSc_research_project
 ## Source Code
 
 All source code used in this research is available in this repository.
